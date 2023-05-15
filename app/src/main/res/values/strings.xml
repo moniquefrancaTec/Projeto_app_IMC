@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP_IMC</string>
+    <string name="txt_edit_imc">Índice de Massa Corporal (IMC)!</string>
+    <string name="txt_edit_status">Status:_______</string>
+    <string name="txt_edit_peso">Peso (Kg)</string>
+    <string name="txt_edit_altura">Altura (metros)</string>
+    <string name="txt_edit_calcular">Calcular</string>
+
+</resources>

@@ -5,5 +5,6 @@
     <string name="txt_edit_peso">Peso (Kg)</string>
     <string name="txt_edit_altura">Altura (metros)</string>
     <string name="txt_edit_calcular">Calcular</string>
+    <string name="btn_salvar">Salvar</string>
 
 </resources>
